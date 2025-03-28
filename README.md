@@ -35,8 +35,8 @@ Este projeto foi desenvolvido como parte de um teste técnico para uma vaga de e
 
 1. **Clonar este repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/web-scraping-ans.git
-   cd web-scraping-ans
+   git clone https://github.com/diegodpcarvalho/WEBSCRAPING
+   cd WEBSCRAPING
 
 ## Resultados:
 
@@ -89,8 +89,6 @@ Verificações foram adicionadas para lidar com links quebrados ou arquivos não
 Desenvolvido por Diego de Paula Carvalho.
 
 📧 diegodpcarvalho@gmail.com
-
-🔗 LinkedIn
 
 🖥️ GitHub
 
